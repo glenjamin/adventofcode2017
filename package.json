@@ -5,5 +5,8 @@
   "license": "MIT",
   "prettier": {
     "printWidth": 80
+  },
+  "dependencies": {
+    "get-stdin": "^5.0.1"
   }
 }
